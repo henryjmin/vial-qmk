@@ -18,5 +18,5 @@
 
 #include_next <mcuconf.h>
 /* Set PLL M divider from 4 (F411 GENERIC default) to 8, because of 16 MHz crystal on board */
-#undef STM32_PLLM_VALUE
-#define STM32_PLLM_VALUE                    8
+// #undef STM32_PLLM_VALUE
+// #define STM32_PLLM_VALUE                    8

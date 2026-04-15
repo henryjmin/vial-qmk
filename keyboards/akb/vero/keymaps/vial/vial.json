@@ -2,7 +2,7 @@
   "name": "akb/vero",
   "vendorId": "0x4150",
   "productId": "0x5645",
-  "lighting": "none",
+  "lighting": "qmk_rgblight",
   "matrix": {
     "rows": 5,
     "cols": 15
